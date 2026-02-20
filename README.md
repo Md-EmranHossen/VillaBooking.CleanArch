@@ -46,7 +46,7 @@ This project is structured into four main layers to ensure strict separation of 
 
 ### Prerequisites
 * Visual Studio 2022 (v17.8 or later)
-* .NET 8.0 SDK
+* .NET 10.0 SDK
 * SQL Server (LocalDB or Express)
 
 ### Installation
